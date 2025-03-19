@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Somerandomcoder42
 - 👀 I’m interested in  OPERATING SYSTEMS, RETRO GAMING AND TECH IN GENERAL 
 - 🌱 I’m currently learning Python and C
-- 💞️ I’m looking to collaborate on a large OS project
+- 💞️ I’m looking to create exploits on ChromeOS
 - 📫 How to reach me francisco.charote@gmail.com
 
 <!---
